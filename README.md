@@ -1,1 +1,3 @@
-"# kostka" 
+# Kostka
+
+Hra vytvořená v JavaScriptu
